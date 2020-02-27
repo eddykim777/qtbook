@@ -1,7 +1,12 @@
 # Qt Korea Developer Community (http://www.qt-dev.com)
 
-Current Version : 1.3
+New Release Version : 1.4 
 
+   [English version]
+      Addition: "Chapter 20 Qt for Android" added.
+   [Korean version]
+      추가: "20. Qt for Android" 장 추가 됨.
+    
 <br><br><br>
 
 <table border=0>
