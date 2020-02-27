@@ -2,10 +2,10 @@
 
 New Release Version : 1.4 
 
-   [English version]
-      Addition: "Chapter 20 Qt for Android" added.
-   [Korean version]
-      추가: "20. Qt for Android" 장 추가 됨.
+&nbsp;&nbsp;&nbsp; [English version] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Addition: "Chapter 20 Qt for Android" added. <br>
+&nbsp;&nbsp;&nbsp; [Korean version] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 추가: "20. Qt for Android" 장 추가 됨. <br>
     
 <br><br><br>
 
