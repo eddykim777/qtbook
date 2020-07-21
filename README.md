@@ -1,11 +1,12 @@
 # Qt Korea Developer Community (http://www.qt-dev.com)
 
-New Release Version : 1.4 
+
+New Release Version : 1.5 
 
 &nbsp;&nbsp;&nbsp; [English version] <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Addition: "Chapter 20 Qt for Android" added. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modify: Correction, Table of Contents and IPC Chapter Change <br>
 &nbsp;&nbsp;&nbsp; [Korean version] <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 추가: "20. Qt for Android" 장 추가 됨. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 수정: 교정, 목차 그리고 IPC장 변경<br>
     
 <br><br><br>
 
