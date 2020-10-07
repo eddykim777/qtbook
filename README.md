@@ -5,6 +5,9 @@ New Release Version : 1.5
 
 &nbsp;&nbsp;&nbsp; [English version] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modify: Correction, Table of Contents and IPC Chapter Change <br>
+
+<br>
+
 &nbsp;&nbsp;&nbsp; [Korean version] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 수정: 교정, 목차 그리고 IPC장 변경<br>
     
