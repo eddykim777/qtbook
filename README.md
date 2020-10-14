@@ -4,11 +4,16 @@
 New Release Version : 1.5 
 
 &nbsp;&nbsp;&nbsp; [English version] <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modify: Correction, Table of Contents and IPC Chapter Change <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming book added. <br>
 
 &nbsp;&nbsp;&nbsp; [Korean version] <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 수정: 교정, 목차 그리고 IPC장 변경<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming book added. <br>
 
+<img src=http://qt-dev.com/img/book_images/Qt_Quick_eng.jpg width=300>
+<img src=http://qt-dev.com/img/book_images/Qt_Quick_kor.jpg width=300>
+
+
+<br>
 I'm looking for someone to translate into the language of the country. <br><br>
 
 <table border=0>
