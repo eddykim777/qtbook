@@ -9,16 +9,13 @@ New Release Version : 1.5 <br><br>
 &nbsp; [English version] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming book added. <br>
 
-<br>
-
 &nbsp; [Korean version] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming 책 추가 <br>
 
 <br>
 <table border=0>
 <tr>
-<td valign=top height=200>
-&nbsp;
+<td align=center valign=top height=200>
 <img src=http://qt-dev.com/img/book_images/Qt_Quick_eng.jpg width=150> 
 <img src=http://qt-dev.com/img/book_images/Qt_Quick_kor.jpg width=150>
 &nbsp;
