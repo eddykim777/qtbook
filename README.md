@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp; - http://www.qt-dev.com <br>
 &nbsp;&nbsp;&nbsp; - http://www.incubic-corp.com <br>
 
-<br><br>
+<br>
 
 New Release Version : 1.5 <br><br>
 
