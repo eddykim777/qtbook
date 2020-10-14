@@ -17,7 +17,7 @@ New Release Version : 1.5 <br><br>
 <br>
 <table border=0>
 <tr>
-<td valign=top height=300>
+<td valign=top height=200>
 &nbsp;
 <img src=http://qt-dev.com/img/book_images/Qt_Quick_eng.jpg width=150> 
 <img src=http://qt-dev.com/img/book_images/Qt_Quick_kor.jpg width=150>
