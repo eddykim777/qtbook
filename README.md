@@ -19,11 +19,11 @@ New Release Version : 1.5 <br><br>
 <tr>
 <td valign=top height=300>
 &nbsp;
-<img src=http://qt-dev.com/img/book_images/Qt_Quick_eng.jpg width=170> 
-<img src=http://qt-dev.com/img/book_images/Qt_Quick_kor.jpg width=170>
-&nbsp;&nbsp;&nbsp;
-<img src=http://qt-dev.com/skin_board/k_build_home/b_img_add/qt_programming_eng.jpg width=165> 
-<img src=http://qt-dev.com/skin_board/k_build_home/b_img_add/qt_programming_kor.jpg width=165>
+<img src=http://qt-dev.com/img/book_images/Qt_Quick_eng.jpg width=150> 
+<img src=http://qt-dev.com/img/book_images/Qt_Quick_kor.jpg width=150>
+&nbsp;
+<img src=http://qt-dev.com/skin_board/k_build_home/b_img_add/qt_programming_eng.jpg width=145> 
+<img src=http://qt-dev.com/skin_board/k_build_home/b_img_add/qt_programming_kor.jpg width=145>
 </td>
 </tr>
 </table>
