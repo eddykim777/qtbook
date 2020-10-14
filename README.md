@@ -20,5 +20,3 @@ I'm looking for someone to translate into the language of the country. <br><br>
   </tr>
 </table>
 
-
-
