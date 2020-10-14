@@ -1,4 +1,5 @@
-# Qt Korea Developer Community (http://www.qt-dev.com)
+# Qt Korea Developer Community <br>
+(http://www.qt-dev.com)
 
 
 New Release Version : 1.5 
@@ -9,8 +10,8 @@ New Release Version : 1.5
 &nbsp;&nbsp;&nbsp; [Korean version] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming book added. <br>
 
-<img src=http://qt-dev.com/img/book_images/Qt_Quick_eng.jpg width=300>
-<img src=http://qt-dev.com/img/book_images/Qt_Quick_kor.jpg width=300>
+<img src=http://qt-dev.com/img/book_images/Qt_Quick_eng.jpg width=200>
+<img src=http://qt-dev.com/img/book_images/Qt_Quick_kor.jpg width=200>
 
 
 <br>
