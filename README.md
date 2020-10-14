@@ -1,6 +1,6 @@
 # Qt Korea Developer Community <br>
-# &nbsp; - http://www.qt-dev.com <br>
-# &nbsp; - http://www.incubic-corp.com <br>
+&nbsp;&nbsp;&nbsp; - http://www.qt-dev.com <br>
+&nbsp;&nbsp;&nbsp; - http://www.incubic-corp.com <br>
 
 <br><br>
 
