@@ -36,10 +36,7 @@ I'm looking for someone to translate into the language of the country.
   <tr>
     <td>
       
-    <a href="https://pages.awscloud.com/game-master-online.html?sc_channel=sm&sc_campaign=apac_game_webinar_game-master-online_20210126_7014z000001mhac&sc_publisher=cafe&sc_country=kr&sc_geo=apac&sc_category=mult&sc_outcome=gamedev&trk=sm_cafe_gamemaster_jan21" target="_blank">
-    <img src=http://www.qt-dev.com/skin_board/k_build_home/b_img_add/banner_0126_AWS_160x100.jpg></a>
     
-    &nbsp;&nbsp;&nbsp;
       
     <a href="http://www.incubic-corp.com/sub/edu/edu_sub01.php?sel=1" target="_blank">
     <img src=http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_incubic.jpg></a>
