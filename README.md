@@ -35,12 +35,8 @@ I'm looking for someone to translate into the language of the country.
 <table border=0>
   <tr>
     <td>
-      
-    
-      
     <a href="http://www.incubic-corp.com/sub/edu/edu_sub01.php?sel=1" target="_blank">
     <img src=http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_incubic.jpg></a>
-    
     </td>
   </tr>
 </table>
