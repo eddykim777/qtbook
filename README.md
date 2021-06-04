@@ -34,7 +34,7 @@ New Release Version : 1.5 <br>
     <a href="http://www.incubic-corp.com/sub/edu/edu_sub02.php?sel=2" target="_blank">
     <img src=http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_2.jpg></a>  
     <a href="https://www.inflearn.com/course/qt6-프로그래밍-1?inst=9d7b8860" target="_blank">
-		  <img src="http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_online_qt_programming_1.jpg"></a> 
+    <img src="http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_online_qt_programming_1.jpg"></a> 
     </td>
   </tr>
 </table>
