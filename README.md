@@ -24,13 +24,7 @@ New Release Version : 1.5 <br>
 </td>
 </tr>
 </table>
-
-
-<b><font size=4>
-I'm looking for someone to translate into the language of the country. 
-</font>
-</b>
-<br><br>
+ 
 
 <table border=0>
   <tr>
@@ -43,3 +37,10 @@ I'm looking for someone to translate into the language of the country.
   </tr>
 </table>
 
+
+
+<b><font size=4>
+I'm looking for someone to translate into the language of the country. 
+</font>
+</b>
+<br><br>
