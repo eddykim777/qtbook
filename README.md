@@ -35,6 +35,8 @@ New Release Version : 1.5 <br>
     <img src=http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_2.jpg></a>  
     <a href="https://www.inflearn.com/course/qt6-프로그래밍-1?inst=9d7b8860" target="_blank">
     <img src="http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_online_qt_programming_1.jpg"></a> 
+    <a href="https://www.inflearn.com/course/qt6-프로그래밍-2?inst=764cd814" target="_blank">
+    <img src="http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_online_qt_programming_2.jpg"></a>  
     </td>
   </tr>
 </table>
