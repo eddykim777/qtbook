@@ -37,7 +37,25 @@ New Release Version : 1.5 <br>
   </tr>
 </table>
 
-
+<table>
+		<tr><td>
+		<a href="http://www.incubic-corp.com/sub/edu/edu_sub01.php?sel=1" target="_blank">
+	  <img src=http://www.incubic-corp.com/b_img_add/qt-dev_edu_banner_incubic.jpg>			
+		</a>
+		</td></tr>
+		<tr><td>
+		<a href="http://www.incubic-corp.com/sub/edu/edu_sub02.php?sel=2" target="_blank">
+		<img src=http://www.incubic-corp.com/b_img_add/qt-dev_edu_banner_2.jpg></a>
+		</td></tr>
+		<tr><td>
+		<a href="https://www.inflearn.com/course/qt6-프로그래밍-1?inst=9d7b8860" target="_blank">
+		<img src=http://www.incubic-corp.com/b_img_add/qt-dev_edu_banner_online_qt_programming_1.jpg></a>
+		</td></tr>
+		<tr><td>
+		<a href="https://www.inflearn.com/course/qt6-프로그래밍-2?inst=764cd814" target="_blank">
+		<img src=http://www.incubic-corp.com/b_img_add/qt-dev_edu_banner_online_qt_programming_2.jpg></a>
+		</td></tr>		
+	</table>
 
 <b><font size=4>
 I'm looking for someone to translate into the language of the country. 
