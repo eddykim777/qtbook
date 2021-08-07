@@ -13,7 +13,7 @@ New Release Version : 1.5 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming 책 추가 <br>
 
 <br>
-<table border=0>
+<!-- table border=0>
 <tr>
 <td align=center valign=top height=200>
 <img src=http://qt-dev.com/img/book_images/Qt_Quick_eng.jpg width=150> 
@@ -23,10 +23,10 @@ New Release Version : 1.5 <br>
 <img src=http://qt-dev.com/skin_board/k_build_home/b_img_add/qt_programming_kor.jpg width=145>
 </td>
 </tr>
-</table>
+</table -->
  
 
-<table border=0>
+<!-- table border=0>
   <tr>
     <td>
     <a href="http://www.incubic-corp.com/sub/edu/edu_sub01.php?sel=1" target="_blank">
@@ -39,7 +39,7 @@ New Release Version : 1.5 <br>
     <img src="http://www.qt-dev.com/skin_board/k_build_home/b_img_add/qt-dev_edu_banner_online_qt_programming_2.jpg"></a>  
     </td>
   </tr>
-</table>
+</table -->
 
 
 <b><font size=4>
