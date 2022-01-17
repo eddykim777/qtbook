@@ -3,7 +3,7 @@
 
 <br>
 
-New Release Version : 1.5 <br>
+New Release Version : 1.6 <br>
 
 &nbsp; [English version] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming book added. <br>
