@@ -5,11 +5,13 @@
 
 New Release Version : 1.6 <br>
 
+<!--
 &nbsp; [English version] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming book added. <br>
 
 &nbsp; [Korean version] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt Quick programming 책 추가 <br>
+-->
 
 <br>
 <!-- table border=0>
