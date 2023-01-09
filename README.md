@@ -44,7 +44,6 @@ New Release Version : 1.6 <br>
 
 
 <b><font size=4>
-I'm looking for someone to translate into the language of the country. 
 </font>
 </b>
 <br><br>
