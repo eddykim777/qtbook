@@ -1,9 +1,9 @@
 # Qt Korea Developer Commnunity
+- [http://www.qt-dev.com](http://www.qt-dev.com)
 
--[ ] [Qt Korea Developer Commnunity Site](http://www.qt-dev.com)
+## New release version 
 
-# Qt Korea Developer Community <br>
-&nbsp;&nbsp;&nbsp; - http://www.qt-dev.com <br>
+
 
 <br>
 
