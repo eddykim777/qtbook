@@ -7,7 +7,7 @@
 
 ## Qt book type and source code type 
 
-The latest Korea books
+The latest Korea books (한국어 버전)
 - Qt book: v1.6_Qt_[Korean]_2022.01.17.pdf
 - Qt book's example: 22.01.17_Qt_Programming_Korean_v1.6_Example_Source_code.zip 
 - Qt Quick(QML) book: v1.5_Qt_[Korean]_20.07.20.pdf
