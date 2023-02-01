@@ -1,5 +1,5 @@
 # Qt Korea Developer Commnunity
-- [http://www.qt-dev.com](http://www.qt-dev.com)
+- [https://www.qt-dev.com](https://www.qt-dev.com)
 
 ## The latest version 
 - Korean: 1.6 
