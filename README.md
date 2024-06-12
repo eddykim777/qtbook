@@ -3,19 +3,19 @@
 
 ## The latest version 
 - Korean: 2.0
-- English: 1.5
+- English: 2.0
 
 ## Qt book type and source code type 
 
-The latest Korean books (한국어 버전)
-- Qt6 book: v2.0_Qt_6_Programming_[Korean]_2024.03.01.pdf
-- Qt6 book's example: v2.0_Qt_6_Programming_Examples_2024.03.01.zip 
-- QML book: v2.0_QML_[Korean]_2024.03.01.pdf
-- QML book's example: v2.0_QML_Examples_2024.03.01.zip
+The latest Korean books 
+- Qt book: v2.0_Qt_6_Programming_[Korean]_2024.06.13.pdf
+- Qt book's example: v2.0_Qt_6_Programming_Examples_2024.06.13.zip
+- QML book: v2.0_QML_[Korean]_2024.06.13.pdf
+- QML book's example: v2.0_QML_Examples_2024.06.13.zip
 
 The latest English books
-- Qt book: v1.5_Qt_[English]_20.07.20.pdf
-- Qt book's example: v1.5_Qt_[English]_Examples_20.07.20.zip
-- Qt Quick(QML) book: v1.5_Qt_Quick_[English]_2020.10.14.pdf
-- Qt Quick(QML) book's example: v1.5_Qt_Quick_[English]_Examples_2020.10.14.zip
+- Qt book: v2.0_Qt_6_Programming_[English]_2024.06.13.pdf
+- Qt book's example: v2.0_Qt_6_Programming_Examples_2024.06.13.zip
+- QML book: v2.0_QML_[English]_2024.06.13.pdf
+- QML book's example: v2.0_QML_Examples_2024.06.13.zip
 
