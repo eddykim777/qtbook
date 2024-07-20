@@ -22,6 +22,7 @@
 - Qt for WebAssembly's example: v2.0_Qt_for_WebAssembly_Examples_2024.07.21
 
 
+
 ### The latest English books
 
 [Qt]
